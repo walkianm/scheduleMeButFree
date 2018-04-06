@@ -1,0 +1,449 @@
+,ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+0,17135,CS,1010,2,Lecture,3,Craig Dill,MoWe 3:30PM - 4:45PM,Thornton Hall E316,Introduction to Information Technology,,Open,0,85,0
+1,16513,CS,1110,1,Lecture,3,Nathan Brunelle,MoWeFr 2:00PM - 2:50PM,Wilson Hall 402,Introduction to Programming,,Open,0,200,0
+2,16950,CS,1110,2,Lecture,3,Nathan Brunelle,MoWeFr 12:00PM - 12:50PM,Rice Hall 130,Introduction to Programming,,Open,0,130,0
+3,17304,CS,1110,3,Lecture,3,Craig Dill,MoWeFr 10:00AM - 10:50AM,Rice Hall 130,Introduction to Programming,,Open,0,130,0
+4,20240,CS,1110,4,Lecture,3,Staff,MoWeFr 11:00AM - 11:50AM,Rice Hall 130,Introduction to Programming,,Open,0,130,0
+5,15855,CS,1110,101,Laboratory,0,Nathan Brunelle,Th 12:30PM - 1:45PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+6,15857,CS,1110,102,Laboratory,0,Nathan Brunelle,Th 9:30AM - 10:45AM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+7,15858,CS,1110,103,Laboratory,0,Nathan Brunelle,Th 11:00AM - 12:15PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+8,15856,CS,1110,104,Laboratory,0,Nathan Brunelle,Th 2:00PM - 3:15PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+9,16437,CS,1110,105,Laboratory,0,Nathan Brunelle,Th 3:30PM - 4:45PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+10,16957,CS,1110,106,Laboratory,0,Nathan Brunelle,Th 5:00PM - 6:15PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+11,16958,CS,1110,107,Laboratory,0,Nathan Brunelle,Th 6:30PM - 7:45PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+12,16959,CS,1110,108,Laboratory,0,Nathan Brunelle,Th 8:00PM - 9:15PM,Olsson Hall 001,Introduction to Programming,,Open,0,35,0
+13,17046,CS,1110,109,Laboratory,0,Nathan Brunelle,Th 12:30PM - 1:45PM,Mechanical Engr Bldg 213,Introduction to Programming,,Open,0,35,0
+14,17265,CS,1110,110,Laboratory,0,Nathan Brunelle,Th 3:30PM - 4:45PM,Mechanical Engr Bldg 213,Introduction to Programming,,Open,0,35,0
+15,17362,CS,1110,111,Laboratory,0,Nathan Brunelle,Th 6:30PM - 7:45PM,Mechanical Engr Bldg 213,Introduction to Programming,,Open,0,35,0
+16,17369,CS,1110,112,Laboratory,0,Nathan Brunelle,Th 5:00PM - 6:15PM,Mechanical Engr Bldg 213,Introduction to Programming,,Open,0,35,0
+17,20477,CS,1110,113,Laboratory,0,Nathan Brunelle,Th 8:00AM - 9:15AM,Olsson Hall 001,Introduction to Programming,,Open,0,50,0
+18,16856,CS,1111,1,Lecture,3,Upsorn Praphamontripong,MoWe 2:00PM - 3:15PM,Thornton Hall E303,Introduction to Programming,,Open,0,60,0
+19,15859,CS,1112,1,Lecture,3,James Cohoon,MoWeFr 2:00PM - 3:15PM,Rice Hall 130,Introduction to Programming,,Open,0,115,0
+20,16010,CS,2102,1,Lecture,3,Kevin Sullivan,TuTh 9:30AM - 10:45AM,Rice Hall 130,Discrete Mathematics,,Open,0,150,0
+21,19472,CS,2102,2,Lecture,3,Kevin Sullivan,TuTh 2:00PM - 3:15PM,Olsson Hall 120,Discrete Mathematics,,Open,0,125,0
+22,19473,CS,2102,3,Lecture,3,Staff,TuTh 3:30PM - 4:45PM,Mechanical Engr Bldg 205,Discrete Mathematics,,Open,0,150,0
+23,15860,CS,2110,1,Lecture,3,John Hott,MoWeFr 10:00AM - 10:50AM,Olsson Hall 120,Software Development Methods,,Open,0,100,0
+24,15861,CS,2110,2,Lecture,3,John Hott,MoWeFr 12:00PM - 12:50PM,Olsson Hall 120,Software Development Methods,,Open,0,100,0
+25,16549,CS,2110,3,Lecture,3,Nada Basit,MoWeFr 1:00PM - 1:50PM,Rice Hall 130,Software Development Methods,,Open,0,100,0
+26,17305,CS,2110,4,Lecture,3,Derrick Stone,MoWeFr 12:00PM - 12:50PM,Ruffner Hall G008,Software Development Methods,,Open,0,100,0
+27,20480,CS,2110,5,Lecture,3,Staff,MoWeFr 8:00AM - 8:50AM,Rice Hall 130,Software Development Methods,,Open,0,1,0
+28,15863,CS,2110,100,Laboratory,0,Nada Basit,Mo 5:00PM - 6:45PM,Rice Hall 130,Software Development Methods,,Open,0,115,0
+29,15864,CS,2110,101,Laboratory,0,Nada Basit,Mo 7:00PM - 8:45PM,Rice Hall 130,Software Development Methods,,Open,0,115,0
+30,15865,CS,2110,102,Laboratory,0,Nada Basit,Tu 5:10PM - 6:55PM,Rice Hall 130,Software Development Methods,,Open,0,115,0
+31,15862,CS,2110,103,Laboratory,0,Nada Basit,Tu 7:00PM - 8:45PM,Rice Hall 130,Software Development Methods,,Open,0,115,0
+32,17350,CS,2110,104,Laboratory,0,Nada Basit,Mo 5:00PM - 6:45PM,Olsson Hall 005,Software Development Methods,,Open,0,46,0
+33,15866,CS,2150,1,Lecture,3,Aaron Bloomfield,MoWeFr 1:00PM - 1:50PM,Olsson Hall 120,Program and Data Representation,,Open,0,95,0
+34,16951,CS,2150,2,Lecture,3,Aaron Bloomfield,MoWeFr 10:00AM - 10:50AM,Minor Hall 125,Program and Data Representation,,Open,0,95,0
+35,20339,CS,2150,3,Lecture,3,Staff,MoWeFr 11:00AM - 11:50AM,Olsson Hall 120,Program and Data Representation,,Open,0,95,0
+36,20476,CS,2150,101,Laboratory,0,Kevin Skadron,Tu 8:00AM - 9:15AM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+37,16382,CS,2150,102,Laboratory,0,Kevin Skadron,Tu 9:30AM - 10:45AM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+38,16550,CS,2150,103,Laboratory,0,Kevin Skadron,Tu 11:00AM - 12:15PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+39,16519,CS,2150,104,Laboratory,0,Kevin Skadron,Tu 12:30PM - 1:45PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+40,16488,CS,2150,105,Laboratory,0,Kevin Skadron,Tu 2:00PM - 3:15PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+41,16806,CS,2150,106,Laboratory,0,Kevin Skadron,Tu 3:30PM - 4:45PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+42,16877,CS,2150,107,Laboratory,0,Kevin Skadron,Tu 5:00PM - 6:15PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+43,16960,CS,2150,108,Laboratory,0,Kevin Skadron,Tu 6:30PM - 7:45PM,Olsson Hall 001,Program and Data Representation,,Open,0,39,0
+44,19475,CS,2501,100,Lecture,3,Thomas Horton,MoWeFr 2:00PM - 2:50PM,Olsson Hall 005,Special Topics in Computer Science,,Open,0,60,0
+45,19477,CS,2501,200,Lecture,3,Mark Floryan,MoWeFr 12:00PM - 12:50PM,Olsson Hall 011,Special Topics in Computer Science,DSA 1,Open,0,60,0
+46,20258,CS,2501,201,Laboratory,0,Mark Floryan,We 6:30PM - 7:45PM,Mechanical Engr Bldg 213,Special Topics in Computer Science,DSA 1,Open,0,30,0
+47,20259,CS,2501,202,Laboratory,0,Mark Floryan,Th 6:30PM - 7:45PM,Mechanical Engr Bldg 215,Special Topics in Computer Science,DSA 1,Open,0,30,0
+48,19478,CS,2501,300,Lecture,3,Luther Tychonievich,MoWeFr 2:00PM - 2:50PM,Olsson Hall 009,Special Topics in Computer Science,Comp Org & Arch 1,Open,0,60,0
+49,20260,CS,2501,301,Laboratory,0,Luther Tychonievich,Mo 6:30PM - 7:45PM,Mechanical Engr Bldg 213,Special Topics in Computer Science,Comp Org & Arch 1,Open,0,30,0
+50,20261,CS,2501,302,Laboratory,0,Luther Tychonievich,Tu 6:30PM - 7:45PM,Mechanical Engr Bldg 213,Special Topics in Computer Science,Comp Org & Arch 1,Open,0,30,0
+51,17045,CS,2910,1,Practicum,1 - 3,Upsorn Praphamontripong,TBA,TBA,CS Education Practicum,,Open,0,50,0
+52,19476,CS,2910,2,Practicum,1 - 3,Upsorn Praphamontripong,TBA,TBA,CS Education Practicum,,Open,0,50,0
+53,20272,CS,2910,3,Practicum,1 - 3,Upsorn Praphamontripong,TBA,TBA,CS Education Practicum,,Open,0,30,0
+54,20273,CS,2910,4,Practicum,1 - 3,Upsorn Praphamontripong,TBA,TBA,CS Education Practicum,,Open,0,30,0
+55,15994,CS,3102,1,Lecture,3,Staff,MoWe 3:30PM - 4:45PM,Olsson Hall 120,Theory of Computation,,Open,0,130,0
+56,16687,CS,3205,1,Lecture,3,Staff,TuTh 12:30PM - 1:45PM,Rice Hall 130,HCI in Software Development,,Open,0,130,0
+57,16489,CS,3240,1,Lecture,3,Mark Sherriff,TuTh 2:00PM - 3:15PM,Rice Hall 130,Advanced Software Development Techniques,,Open,0,144,0
+58,16551,CS,3240,101,Laboratory,0,Mark Sherriff,Mo 2:00PM - 3:20PM,Olsson Hall 001,Advanced Software Development Techniques,,Open,0,48,0
+59,16552,CS,3240,102,Laboratory,0,Mark Sherriff,Mo 3:30PM - 4:45PM,Olsson Hall 001,Advanced Software Development Techniques,,Open,0,48,0
+60,20020,CS,3240,103,Laboratory,0,Mark Sherriff,Mo 5:00PM - 6:15PM,Olsson Hall 001,Advanced Software Development Techniques,,Open,0,48,0
+61,15867,CS,3330,1,Lecture,3,Charles Reiss,TuTh 3:30PM - 4:45PM,Maury Hall 209,Computer Architecture,,Open,0,100,0
+62,16998,CS,3330,2,Lecture,3,Charles Reiss,TuTh 12:30PM - 1:45PM,Olsson Hall 120,Computer Architecture,,Open,0,100,0
+63,16004,CS,3330,101,Laboratory,0,Charles Reiss,We 12:30PM - 1:45PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+64,16005,CS,3330,102,Laboratory,0,Charles Reiss,We 2:00PM - 3:15PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+65,16006,CS,3330,103,Laboratory,0,Charles Reiss,We 3:30PM - 4:45PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+66,16707,CS,3330,104,Laboratory,0,Charles Reiss,We 5:00PM - 6:15PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+67,17132,CS,3330,105,Laboratory,0,Charles Reiss,We 6:30PM - 7:45PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+68,20274,CS,3330,106,Laboratory,0,Charles Reiss,We 11:00AM - 12:15PM,Olsson Hall 001,Computer Architecture,,Open,0,45,0
+69,19576,CS,3501,1,Lecture,3,Aaron Bloomfield,MoWeFr 12:00PM - 12:50PM,Olsson Hall 005,Special Topics in Computer Science,,Open,0,80,0
+70,16490,CS,4102,1,Lecture,3,Staff,TuTh 2:00PM - 3:15PM,Mechanical Engr Bldg 205,Algorithms,,Open,0,125,0
+71,16996,CS,4102,2,Lecture,3,Staff,TuTh 9:30AM - 10:45AM,Nau Hall 101,Algorithms,,Open,0,125,0
+72,15868,CS,4414,1,Lecture,3,Andrew Grimshaw,TuTh 11:00AM - 12:15PM,Rice Hall 130,Operating Systems,,Open,0,140,0
+73,20265,CS,4414,2,Lecture,3,Charles Reiss,TuTh 9:30AM - 10:45AM,Olsson Hall 009,Operating Systems,,Open,0,70,0
+74,15870,CS,4457,1,Lecture,3,Ahmed Ibrahim,TuTh 2:00PM - 3:15PM,Thornton Hall E316,Computer Networks,,Open,0,50,0
+75,16670,CS,4501,1,Lecture,3,Yanjun Qi,TuTh 3:30PM - 4:45PM,Rice Hall 130,Special Topics in Computer Science,Machine Learning,Open,0,75,0
+76,17137,CS,4501,2,Lecture,3,Staff,TuTh 5:00PM - 6:15PM,Olsson Hall 011,Special Topics in Computer Science,Machine Learning,Wait List,0,0,0
+77,20501,CS,4501,3,Lecture,3,Staff,TuTh 12:30PM - 1:45PM,Thornton Hall E303,Special Topics in Computer Science,Software Testing,Open,0,30,0
+78,20506,CS,4501,4,Lecture,3,Staff,TuTh 2:00PM - 3:15PM,Mechanical Engr Bldg 339,Special Topics in Computer Science,,Closed,0,0,0
+79,19480,CS,4610,1,Lecture,3,Baishakhi Ray,TuTh 2:00PM - 3:15PM,Chemical Engineering Bldg 005,Programming Languages,,Open,0,60,0
+80,17141,CS,4620,1,Lecture,3,Mary Soffa,TuTh 11:00AM - 12:15PM,Rice Hall 032,Compilers,,Open,0,25,0
+81,16767,CS,4630,1,Lecture,3,Michele Co,TuTh 3:30PM - 4:45PM,Olsson Hall 120,Defense Against the Dark Arts,,Open,0,100,0
+82,17145,CS,4640,1,Lecture,3,Baishakhi Ray,TuTh 2:00PM - 3:15PM,Mechanical Engr Bldg 339,Programming Languages for Web Applications,,Open,0,72,0
+83,16785,CS,4710,1,Lecture,3,Lu Feng,MoWe 3:30PM - 4:45PM,Rice Hall 130,Artificial Intelligence,,Open,0,80,0
+84,16454,CS,4720,1,Lecture,3,Mark Sherriff,MoWeFr 1:00PM - 1:50PM,Olsson Hall 005,Mobile Application Development,,Open,0,75,0
+85,16952,CS,4740,1,Lecture,3,Haiying Shen,TuTh 11:00AM - 12:15PM,Thornton Hall E303,Cloud Computing,,Open,0,75,0
+86,16865,CS,4750,1,Lecture,3,Staff,TuTh 3:30PM - 4:45PM,Olsson Hall 009,Database Systems,,Open,0,80,0
+87,15869,CS,4753,1,Lecture,3,Alfred Weaver,TuTh 11:00AM - 12:15PM,Olsson Hall 005,Electronic Commerce Technologies,,Open,0,80,0
+88,20241,CS,4760,1,Lecture,3,Hongning Wang,MoWe 3:30PM - 4:45PM,Olsson Hall 005,Network Security,,Open,0,70,0
+89,20340,CS,4810,1,Lecture,3,Luther Tychonievich,TuTh 2:00PM - 3:15PM,Olsson Hall 009,Introduction to Computer Graphics,,Open,0,30,0
+90,16560,CS,4970,1,Practicum,3,Ahmed Ibrahim,MoWeFr 11:00AM - 11:50AM,Mechanical Engr Bldg 205,Capstone Practicum I,,Open,0,125,0
+91,16561,CS,4980,1,Independent Study,1 - 3,Kevin Skadron,TBA,TBA,Capstone Research,,Open,0,30,0
+92,16562,CS,4980,2,Independent Study,1 - 3,Jack Davidson,TBA,TBA,Capstone Research,,Open,0,30,0
+93,16563,CS,4980,3,Independent Study,1 - 3,Andrew Grimshaw,TBA,TBA,Capstone Research,,Open,0,30,0
+94,17414,CS,4980,4,Independent Study,1 - 3,Dimitrios Diochnos,TBA,TBA,Capstone Research,,Open,0,30,0
+95,16564,CS,4980,5,Independent Study,1 - 3,Gabriel Robins,TBA,TBA,Capstone Research,,Open,0,30,0
+96,16565,CS,4980,6,Independent Study,1 - 3,Mary Soffa,TBA,TBA,Capstone Research,,Open,0,30,0
+97,16566,CS,4980,7,Independent Study,1 - 3,John Stankovic,TBA,TBA,Capstone Research,,Open,0,30,0
+98,16567,CS,4980,8,Independent Study,1 - 3,Alfred Weaver,TBA,TBA,Capstone Research,,Open,0,30,0
+99,16568,CS,4980,9,Independent Study,1 - 3,Aaron Bloomfield,TBA,TBA,Capstone Research,,Open,0,30,0
+100,16569,CS,4980,10,Independent Study,1 - 3,James Cohoon,TBA,TBA,Capstone Research,,Open,0,30,0
+101,16570,CS,4980,11,Independent Study,1 - 3,David Evans,TBA,TBA,Capstone Research,,Open,0,30,0
+102,17036,CS,4980,12,Independent Study,1 - 3,"James Cohoon,Joanne Dugan",TBA,TBA,Capstone Research,,Open,0,30,0
+103,16571,CS,4980,13,Independent Study,1 - 3,Thomas Horton,TBA,TBA,Capstone Research,,Open,0,30,0
+104,16572,CS,4980,14,Independent Study,1 - 3,Marty Humphrey,TBA,TBA,Capstone Research,,Open,0,30,0
+105,17049,CS,4980,15,Independent Study,1 - 3,Kai-Wei Chang,TBA,TBA,Capstone Research,,Open,0,30,0
+106,16573,CS,4980,16,Independent Study,1 - 3,Worthy Martin,TBA,TBA,Capstone Research,,Open,0,30,0
+107,16574,CS,4980,17,Independent Study,1 - 3,Kevin Sullivan,TBA,TBA,Capstone Research,,Open,0,30,0
+108,16575,CS,4980,19,Independent Study,1 - 3,Cameron Whitehouse,TBA,TBA,Capstone Research,,Open,0,30,0
+109,17433,CS,4980,20,Independent Study,1 - 3,Madhur Behl,TBA,TBA,Capstone Research,,Open,0,30,0
+110,16576,CS,4980,21,Independent Study,1 - 3,Mark Sherriff,TBA,TBA,Capstone Research,,Open,0,30,0
+111,16628,CS,4980,22,Independent Study,1 - 3,Mark Floryan,TBA,TBA,Capstone Research,,Open,0,30,0
+112,16632,CS,4980,23,Independent Study,1 - 3,Yanjun Qi,TBA,TBA,Capstone Research,,Open,0,30,0
+113,16688,CS,4980,24,Independent Study,1 - 3,Mohammad Mahmoody Ghidary,TBA,TBA,Capstone Research,,Open,0,30,0
+114,16698,CS,4980,25,Independent Study,1 - 3,Connelly Barnes,TBA,TBA,Capstone Research,,Open,0,30,0
+115,16901,CS,4980,26,Independent Study,1 - 3,Nada Basit,TBA,TBA,Capstone Research,,Open,0,30,0
+116,16902,CS,4980,27,Independent Study,1 - 3,David Edwards,TBA,TBA,Capstone Research,,Open,0,30,0
+117,16903,CS,4980,28,Independent Study,1 - 3,Kong-Cheng Wong,TBA,TBA,Capstone Research,,Open,0,30,0
+118,16904,CS,4980,29,Independent Study,1 - 3,Mary Smith,TBA,TBA,Capstone Research,,Open,0,30,0
+119,16905,CS,4980,30,Independent Study,1 - 3,Luther Tychonievich,TBA,TBA,Capstone Research,,Open,0,30,0
+120,16906,CS,4980,31,Independent Study,1 - 3,Hongning Wang,TBA,TBA,Capstone Research,,Open,0,30,0
+121,17050,CS,4980,32,Independent Study,1 - 3,Haiying Shen,TBA,TBA,Capstone Research,,Open,0,30,0
+122,17051,CS,4980,33,Independent Study,1 - 3,Vicente Ordonez-Roman,TBA,TBA,Capstone Research,,Open,0,30,0
+123,17052,CS,4980,34,Independent Study,1 - 3,Charles Reiss,TBA,TBA,Capstone Research,,Open,0,30,0
+124,17053,CS,4980,35,Independent Study,1 - 3,Ahmed Ibrahim,TBA,TBA,Capstone Research,,Open,0,30,0
+125,17054,CS,4980,36,Independent Study,1 - 3,Upsorn Praphamontripong,TBA,TBA,Capstone Research,,Open,0,30,0
+126,17125,CS,4980,37,Independent Study,1 - 3,Baishakhi Ray,TBA,TBA,Capstone Research,,Open,0,30,0
+127,17222,CS,4980,38,Independent Study,1 - 3,Lu Feng,TBA,TBA,Capstone Research,,Open,0,30,0
+128,16543,CS,4993,1,Independent Study,1 - 3,Marty Humphrey,TBA,TBA,Independent Study,,Open,0,30,0
+129,16015,CS,4993,2,Independent Study,1 - 3,Mark Sherriff,TBA,TBA,Independent Study,,Open,0,30,0
+130,16393,CS,4993,3,Independent Study,1 - 3,Thomas Horton,TBA,TBA,Independent Study,,Open,0,30,0
+131,17280,CS,4993,4,Independent Study,1 - 3,Bradford Campbell,TBA,TBA,Independent Study,,Open,0,30,0
+132,16301,CS,4993,5,Independent Study,1 - 3,Andrew Grimshaw,TBA,TBA,Independent Study,,Open,0,30,0
+133,16546,CS,4993,6,Independent Study,1 - 3,James Cohoon,TBA,TBA,Independent Study,,Open,0,5,0
+134,17288,CS,4993,7,Independent Study,1 - 3,Quanquan Gu,TBA,TBA,Independent Study,,Open,0,30,0
+135,16907,CS,4993,8,Independent Study,1 - 3,Mary Soffa,TBA,TBA,Independent Study,,Open,0,30,0
+136,16377,CS,4993,9,Independent Study,1 - 3,David Evans,TBA,TBA,Independent Study,,Open,0,30,0
+137,16380,CS,4993,10,Independent Study,1 - 3,Kevin Skadron,TBA,TBA,Independent Study,,Open,0,30,0
+138,16389,CS,4993,11,Independent Study,1 - 3,Alfred Weaver,TBA,TBA,Independent Study,,Open,0,30,0
+139,16455,CS,4993,12,Independent Study,1 - 3,Aaron Bloomfield,TBA,TBA,Independent Study,,Open,0,30,0
+140,16480,CS,4993,13,Independent Study,1 - 3,Jack Davidson,TBA,TBA,Independent Study,,Open,0,30,0
+141,16483,CS,4993,14,Independent Study,1 - 3,Cameron Whitehouse,TBA,TBA,Independent Study,,Open,0,30,0
+142,16540,CS,4993,15,Independent Study,1 - 3,Gabriel Robins,TBA,TBA,Independent Study,,Open,0,5,0
+143,16544,CS,4993,16,Independent Study,1 - 3,John Stankovic,TBA,TBA,Independent Study,,Open,0,30,0
+144,16580,CS,4993,17,Independent Study,1 - 3,Worthy Martin,TBA,TBA,Independent Study,,Open,0,30,0
+145,16618,CS,4993,18,Independent Study,1 - 3,Yanjun Qi,TBA,TBA,Independent Study,,Open,0,30,0
+146,16619,CS,4993,19,Independent Study,1 - 3,Connelly Barnes,TBA,TBA,Independent Study,,Open,0,30,0
+147,16689,CS,4993,20,Independent Study,1 - 3,Mohammad Mahmoody Ghidary,TBA,TBA,Independent Study,,Open,0,30,0
+148,16708,CS,4993,21,Independent Study,1 - 3,Kevin Sullivan,TBA,TBA,Independent Study,,Open,0,30,0
+149,16709,CS,4993,22,Independent Study,1 - 3,Mark Floryan,TBA,TBA,Independent Study,,Open,0,30,0
+150,17272,CS,4993,23,Independent Study,1 - 3,Madhur Behl,TBA,TBA,Independent Study,,Open,0,30,0
+151,16810,CS,4993,24,Independent Study,1 - 3,Nada Basit,TBA,TBA,Independent Study,,Open,0,30,0
+152,16898,CS,4993,25,Independent Study,1 - 3,Hongning Wang,TBA,TBA,Independent Study,,Open,0,30,0
+153,16908,CS,4993,26,Independent Study,1 - 3,David Edwards,TBA,TBA,Independent Study,,Open,0,30,0
+154,16909,CS,4993,27,Independent Study,1 - 3,Kong-Cheng Wong,TBA,TBA,Independent Study,,Open,0,30,0
+155,16910,CS,4993,28,Independent Study,1 - 3,Mary Smith,TBA,TBA,Independent Study,,Open,0,30,0
+156,16911,CS,4993,29,Independent Study,1 - 3,Luther Tychonievich,TBA,TBA,Independent Study,,Open,0,30,0
+157,16912,CS,4993,30,Independent Study,1 - 3,Hongning Wang,TBA,TBA,Independent Study,,Open,0,30,0
+158,16973,CS,4993,31,Independent Study,1 - 3,Baishakhi Ray,TBA,TBA,Independent Study,,Open,0,30,0
+159,16974,CS,4993,32,Independent Study,1 - 3,Samira Khan,TBA,TBA,Independent Study,,Open,0,30,0
+160,17055,CS,4993,33,Independent Study,1 - 3,Kai-Wei Chang,TBA,TBA,Independent Study,,Open,0,30,0
+161,17056,CS,4993,34,Independent Study,1 - 3,Haiying Shen,TBA,TBA,Independent Study,,Open,0,30,0
+162,17057,CS,4993,35,Independent Study,1 - 3,Vicente Ordonez-Roman,TBA,TBA,Independent Study,,Open,0,30,0
+163,17058,CS,4993,36,Independent Study,1 - 3,Charles Reiss,TBA,TBA,Independent Study,,Open,0,30,0
+164,17060,CS,4993,37,Independent Study,1 - 3,Ahmed Ibrahim,TBA,TBA,Independent Study,,Open,0,30,0
+165,17059,CS,4993,38,Independent Study,1 - 3,Upsorn Praphamontripong,TBA,TBA,Independent Study,,Open,0,30,0
+166,17223,CS,4993,39,Independent Study,1 - 3,Lu Feng,TBA,TBA,Independent Study,,Open,0,30,0
+167,17295,CS,4993,40,Independent Study,1 - 3,Nathan Brunelle,TBA,TBA,Independent Study,,Open,0,30,0
+168,17351,CS,4993,41,Independent Study,1 - 3,Farzad Hassanzadeh,TBA,TBA,Independent Study,,Open,0,30,0
+169,17445,CS,4993,42,Independent Study,1 - 3,Yuan Tian,TBA,TBA,Independent Study,,Open,0,30,0
+170,17446,CS,4993,43,Independent Study,1 - 3,John Gates,TBA,TBA,Independent Study,,Open,0,30,0
+171,16012,CS,4998,1,Independent Study,3,David Evans,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+172,16975,CS,4998,2,Independent Study,3,Baishakhi Ray,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+173,16976,CS,4998,3,Independent Study,3,Samira Khan,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+174,17203,CS,4998,4,Independent Study,3,Hongning Wang,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+175,17224,CS,4998,5,Independent Study,3,Lu Feng,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+176,17235,CS,4998,6,Independent Study,3,Mary Smith,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+177,17255,CS,4998,7,Independent Study,3,Mark Floryan,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+178,17273,CS,4998,8,Independent Study,3,Madhur Behl,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+179,17281,CS,4998,9,Independent Study,3,Bradford Campbell,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+180,17289,CS,4998,10,Independent Study,3,Quanquan Gu,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+181,17296,CS,4998,11,Independent Study,3,Nathan Brunelle,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+182,17352,CS,4998,12,Independent Study,3,Farzad Hassanzadeh,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+183,17438,CS,4998,13,Independent Study,3,Worthy Martin,TBA,TBA,Distinguished BA Majors Research,,Open,0,30,0
+184,16724,CS,5012,1,Lecture,3,Nada Basit,MoWe 3:30PM - 4:45PM,Olsson Hall 009,Foundations of Computer Science,,Open,0,50,0
+185,16784,CS,6161,1,Lecture,3,Mohammad Mahmoody Ghidary,TuTh 5:00PM - 6:15PM,Mechanical Engr Bldg 205,Design and Analysis of Algorithms,,Open,9,100,0
+186,15975,CS,6190,1,Lecture,1 - 3,Kevin Skadron,TuTh 3:30PM - 4:45PM,Thornton Hall E303,Computer Science Perspectives,,Open,1,82,0
+187,16797,CS,6316,1,Lecture,3,Staff,MoWe 2:00PM - 3:15PM,Olsson Hall 120,Machine Learning,,Open,19,45,0
+188,16953,CS,6354,1,Lecture,3,Samira Khan,MoWe 12:15PM - 1:30PM,Rice Hall 340,Computer Architecture,,Open,3,35,0
+189,16491,CS,6456,1,Lecture,3,Bradford Campbell,TuTh 9:30AM - 10:45AM,Thornton Hall E303,Operating Systems,,Open,10,35,0
+190,16783,CS,6501,1,Lecture,3,Marty Humphrey,MoWe 11:00AM - 12:15PM,Rice Hall 032,Special Topics in Computer Science,TBD,Open,12,35,0
+191,17146,CS,6501,2,Lecture,3,Yuan Tian,TuTh 2:00PM - 3:15PM,Rice Hall 032,Special Topics in Computer Science,TBD,Open,1,32,0
+192,16796,CS,6501,3,Lecture,3,Madhur Behl,TuTh 2:00PM - 3:15PM,Thornton Hall D222,Special Topics in Computer Science,TBD,Open,10,15,0
+193,16867,CS,6501,4,Lecture,3,John Stankovic,TuTh 12:30PM - 1:45PM,Rice Hall 340,Special Topics in Computer Science,TBD,Open,21,32,0
+194,17147,CS,6501,5,Lecture,3,Staff,MoWe 12:30PM - 1:45PM,Rice Hall 032,Special Topics in Computer Science,TBD,Wait List,3,0,0
+195,17037,CS,6501,6,Lecture,3,Staff,MoWe 10:30AM - 11:45AM,Rice Hall 340,Special Topics in Computer Science,TBD,Wait List,3,0,0
+196,19481,CS,6620,1,Lecture,3,Mary Soffa,TuTh 11:00AM - 12:15PM,Rice Hall 032,Compilers,,Open,5,7,0
+197,17316,CS,6890,1,Independent Study,1,Connelly Barnes,TBA,TBA,Industrial Applications,,Open,0,30,0
+198,17317,CS,6890,2,Independent Study,1,James Cohoon,TBA,TBA,Industrial Applications,,Open,0,30,0
+199,17318,CS,6890,3,Independent Study,1,Jack Davidson,TBA,TBA,Industrial Applications,,Open,0,30,0
+200,17319,CS,6890,4,Independent Study,1,David Evans,TBA,TBA,Industrial Applications,,Open,0,30,0
+201,17320,CS,6890,5,Independent Study,1,Lu Feng,TBA,TBA,Industrial Applications,,Open,0,30,0
+202,17321,CS,6890,6,Independent Study,1,Andrew Grimshaw,TBA,TBA,Industrial Applications,,Open,0,30,0
+203,17322,CS,6890,7,Independent Study,1,Quanquan Gu,TBA,TBA,Industrial Applications,,Open,0,30,0
+204,17323,CS,6890,8,Independent Study,1,Marty Humphrey,TBA,TBA,Industrial Applications,,Open,0,30,0
+205,17324,CS,6890,9,Independent Study,1,Samira Khan,TBA,TBA,Industrial Applications,,Open,0,30,0
+206,17325,CS,6890,10,Independent Study,1,Mohammad Mahmoody Ghidary,TBA,TBA,Industrial Applications,,Open,0,30,0
+207,17326,CS,6890,11,Independent Study,1,Worthy Martin,TBA,TBA,Industrial Applications,,Open,0,30,0
+208,17327,CS,6890,12,Independent Study,1,Vicente Ordonez-Roman,TBA,TBA,Industrial Applications,,Open,0,30,0
+209,17328,CS,6890,13,Independent Study,1,Yanjun Qi,TBA,TBA,Industrial Applications,,Open,0,30,0
+210,17329,CS,6890,14,Independent Study,1,Baishakhi Ray,TBA,TBA,Industrial Applications,,Open,0,30,0
+211,17330,CS,6890,15,Independent Study,1,Gabriel Robins,TBA,TBA,Industrial Applications,,Open,0,30,0
+212,17331,CS,6890,16,Independent Study,1,Haiying Shen,TBA,TBA,Industrial Applications,,Open,0,30,0
+213,17332,CS,6890,17,Independent Study,1,Kevin Skadron,TBA,TBA,Industrial Applications,,Open,0,30,0
+214,17333,CS,6890,18,Independent Study,1,Mary Soffa,TBA,TBA,Industrial Applications,,Open,0,30,0
+215,17334,CS,6890,19,Independent Study,1,John Stankovic,TBA,TBA,Industrial Applications,,Open,0,30,0
+216,17335,CS,6890,20,Independent Study,1,Kevin Sullivan,TBA,TBA,Industrial Applications,,Open,0,30,0
+217,17336,CS,6890,21,Independent Study,1,Hongning Wang,TBA,TBA,Industrial Applications,,Open,0,30,0
+218,17337,CS,6890,22,Independent Study,1,Alfred Weaver,TBA,TBA,Industrial Applications,,Open,0,30,0
+219,17338,CS,6890,23,Independent Study,1,Cameron Whitehouse,TBA,TBA,Industrial Applications,,Open,0,30,0
+220,17339,CS,6890,24,Independent Study,1,Madhur Behl,TBA,TBA,Industrial Applications,,Open,0,30,0
+221,17340,CS,6890,25,Independent Study,1,Bradford Campbell,TBA,TBA,Industrial Applications,,Open,0,30,0
+222,17411,CS,7457,1,Lecture,3,Ahmed Ibrahim,TuTh 2:00PM - 3:15PM,Thornton Hall E316,Computer Networks,,Open,0,3,0
+223,16634,CS,7993,1,Independent Study,1 - 12,James Cohoon,TBA,TBA,Independent Study,,Open,0,30,0
+224,16635,CS,7993,2,Independent Study,1 - 12,Mark Sherriff,TBA,TBA,Independent Study,,Open,0,30,0
+225,16295,CS,7993,3,Independent Study,1 - 12,Kevin Skadron,TBA,TBA,Independent Study,,Open,0,30,0
+226,16988,CS,7993,4,Independent Study,1 - 12,Baishakhi Ray,TBA,TBA,Independent Study,,Open,0,30,0
+227,16633,CS,7993,5,Independent Study,1 - 12,Jack Davidson,TBA,TBA,Independent Study,,Open,1,30,0
+228,16636,CS,7993,6,Independent Study,1 - 12,David Evans,TBA,TBA,Independent Study,,Open,0,30,0
+229,16637,CS,7993,7,Independent Study,1 - 12,Marty Humphrey,TBA,TBA,Independent Study,,Open,0,30,0
+230,16638,CS,7993,8,Independent Study,1 - 12,Mary Soffa,TBA,TBA,Independent Study,,Open,0,30,0
+231,16639,CS,7993,9,Independent Study,1 - 12,John Stankovic,TBA,TBA,Independent Study,,Open,0,30,0
+232,17282,CS,7993,10,Independent Study,1 - 12,Bradford Campbell,TBA,TBA,Independent Study,,Open,0,30,0
+233,17290,CS,7993,11,Independent Study,1 - 12,Quanquan Gu,TBA,TBA,Independent Study,,Open,0,30,0
+234,16989,CS,7993,12,Independent Study,1 - 12,Samira Khan,TBA,TBA,Independent Study,,Open,0,30,0
+235,16640,CS,7993,13,Independent Study,1 - 12,Aaron Bloomfield,TBA,TBA,Independent Study,,Open,0,30,0
+236,16641,CS,7993,14,Independent Study,1 - 12,Andrew Grimshaw,TBA,TBA,Independent Study,,Open,0,30,0
+237,16642,CS,7993,15,Independent Study,1 - 12,Thomas Horton,TBA,TBA,Independent Study,,Open,0,30,0
+238,16643,CS,7993,16,Independent Study,1 - 12,Worthy Martin,TBA,TBA,Independent Study,,Open,0,30,0
+239,16644,CS,7993,17,Independent Study,1 - 12,Gabriel Robins,TBA,TBA,Independent Study,,Open,0,30,0
+240,16645,CS,7993,18,Independent Study,1 - 12,Kevin Sullivan,TBA,TBA,Independent Study,,Open,0,30,0
+241,16646,CS,7993,19,Independent Study,1 - 12,Alfred Weaver,TBA,TBA,Independent Study,,Open,0,30,0
+242,17274,CS,7993,20,Independent Study,1 - 12,Madhur Behl,TBA,TBA,Independent Study,,Open,0,30,0
+243,16647,CS,7993,21,Independent Study,1 - 12,Cameron Whitehouse,TBA,TBA,Independent Study,,Open,0,30,0
+244,16648,CS,7993,22,Independent Study,1 - 12,Connelly Barnes,TBA,TBA,Independent Study,,Open,0,30,0
+245,16649,CS,7993,23,Independent Study,1 - 12,Yanjun Qi,TBA,TBA,Independent Study,,Open,0,30,0
+246,16650,CS,7993,24,Independent Study,1 - 12,Mark Floryan,TBA,TBA,Independent Study,,Open,0,30,0
+247,16690,CS,7993,25,Independent Study,1 - 12,Mohammad Mahmoody Ghidary,TBA,TBA,Independent Study,,Open,0,30,0
+248,16804,CS,7993,26,Independent Study,1 - 12,Hongning Wang,TBA,TBA,Independent Study,,Open,0,30,0
+249,17061,CS,7993,27,Independent Study,1 - 12,Kai-Wei Chang,TBA,TBA,Independent Study,,Open,0,30,0
+250,17062,CS,7993,28,Independent Study,1 - 12,Haiying Shen,TBA,TBA,Independent Study,,Open,0,30,0
+251,17063,CS,7993,29,Independent Study,1 - 12,Vicente Ordonez-Roman,TBA,TBA,Independent Study,,Open,0,30,0
+252,17064,CS,7993,30,Independent Study,1 - 12,Charles Reiss,TBA,TBA,Independent Study,,Open,0,30,0
+253,17065,CS,7993,31,Independent Study,1 - 12,Ahmed Ibrahim,TBA,TBA,Independent Study,,Open,0,30,0
+254,17066,CS,7993,32,Independent Study,1 - 12,Upsorn Praphamontripong,TBA,TBA,Independent Study,,Open,0,30,0
+255,17118,CS,7993,33,Independent Study,1 - 12,Abdeltawab Hendawi,TBA,TBA,Independent Study,,Open,0,30,0
+256,17119,CS,7993,34,Independent Study,1 - 12,Dimitrios Diochnos,TBA,TBA,Independent Study,,Open,0,30,0
+257,17126,CS,7993,35,Independent Study,1 - 12,Nada Basit,TBA,TBA,Independent Study,,Open,0,30,0
+258,17216,CS,7993,36,Independent Study,1 - 12,Lu Feng,TBA,TBA,Independent Study,,Open,0,30,0
+259,17297,CS,7993,37,Independent Study,1 - 12,Nathan Brunelle,TBA,TBA,Independent Study,,Open,0,30,0
+260,17353,CS,7993,38,Independent Study,1 - 12,Farzad Hassanzadeh,TBA,TBA,Independent Study,,Open,0,30,0
+261,16247,CS,7995,1,Independent Study,3,Jack Davidson,TBA,TBA,Supervised Project Research,,Open,0,30,0
+262,16248,CS,7995,2,Independent Study,3,David Evans,TBA,TBA,Supervised Project Research,,Open,0,30,0
+263,16696,CS,7995,3,Independent Study,3,Connelly Barnes,TBA,TBA,Supervised Project Research,,Open,0,30,0
+264,16697,CS,7995,4,Independent Study,3,Yanjun Qi,TBA,TBA,Supervised Project Research,,Open,0,30,0
+265,16249,CS,7995,5,Independent Study,3,Marty Humphrey,TBA,TBA,Supervised Project Research,,Open,0,30,0
+266,16250,CS,7995,6,Independent Study,3,Kevin Skadron,TBA,TBA,Supervised Project Research,,Open,0,30,0
+267,16251,CS,7995,7,Independent Study,3,Mary Soffa,TBA,TBA,Supervised Project Research,,Open,0,30,0
+268,16252,CS,7995,8,Independent Study,3,John Stankovic,TBA,TBA,Supervised Project Research,,Open,0,30,0
+269,17283,CS,7995,9,Independent Study,3,Bradford Campbell,TBA,TBA,Supervised Project Research,,Open,0,30,0
+270,17291,CS,7995,10,Independent Study,3,Quanquan Gu,TBA,TBA,Supervised Project Research,,Open,0,30,0
+271,16977,CS,7995,11,Independent Study,3,Baishakhi Ray,TBA,TBA,Supervised Project Research,,Open,0,30,0
+272,16417,CS,7995,12,Independent Study,3,Aaron Bloomfield,TBA,TBA,Supervised Project Research,,Open,0,30,0
+273,16978,CS,7995,13,Independent Study,3,Samira Khan,TBA,TBA,Supervised Project Research,,Open,0,30,0
+274,16418,CS,7995,14,Independent Study,3,James Cohoon,TBA,TBA,Supervised Project Research,,Open,0,30,0
+275,16419,CS,7995,15,Independent Study,3,Andrew Grimshaw,TBA,TBA,Supervised Project Research,,Open,0,30,0
+276,16420,CS,7995,16,Independent Study,3,Hongning Wang,TBA,TBA,Supervised Project Research,,Open,0,30,0
+277,16421,CS,7995,17,Independent Study,3,Thomas Horton,TBA,TBA,Supervised Project Research,,Open,0,30,0
+278,16422,CS,7995,18,Independent Study,3,Worthy Martin,TBA,TBA,Supervised Project Research,,Open,0,30,0
+279,16659,CS,7995,19,Independent Study,3,Malathi Veeraraghavan,TBA,TBA,Supervised Project Research,,Open,0,30,0
+280,16423,CS,7995,20,Independent Study,3,Gabriel Robins,TBA,TBA,Supervised Project Research,,Open,0,30,0
+281,16424,CS,7995,21,Independent Study,3,Mark Sherriff,TBA,TBA,Supervised Project Research,,Open,0,30,0
+282,16691,CS,7995,22,Independent Study,3,Mohammad Mahmoody Ghidary,TBA,TBA,Supervised Project Research,,Open,0,30,0
+283,16425,CS,7995,23,Independent Study,3,Kevin Sullivan,TBA,TBA,Supervised Project Research,,Open,0,30,0
+284,16426,CS,7995,24,Independent Study,3,Alfred Weaver,TBA,TBA,Supervised Project Research,,Open,0,30,0
+285,17275,CS,7995,25,Independent Study,3,Madhur Behl,TBA,TBA,Supervised Project Research,,Open,1,30,0
+286,16427,CS,7995,26,Independent Study,3,Cameron Whitehouse,TBA,TBA,Supervised Project Research,,Open,0,30,0
+287,16660,CS,7995,27,Independent Study,3,Malathi Veeraraghavan,TBA,TBA,Supervised Project Research,,Open,0,30,0
+288,17067,CS,7995,28,Independent Study,3,Kai-Wei Chang,TBA,TBA,Supervised Project Research,,Open,0,30,0
+289,17068,CS,7995,29,Independent Study,3,Haiying Shen,TBA,TBA,Supervised Project Research,,Open,0,30,0
+290,17069,CS,7995,30,Independent Study,3,Vicente Ordonez-Roman,TBA,TBA,Supervised Project Research,,Open,0,30,0
+291,17070,CS,7995,31,Independent Study,3,Charles Reiss,TBA,TBA,Supervised Project Research,,Open,0,30,0
+292,17071,CS,7995,32,Independent Study,3,Ahmed Ibrahim,TBA,TBA,Supervised Project Research,,Open,0,30,0
+293,17072,CS,7995,33,Independent Study,3,Upsorn Praphamontripong,TBA,TBA,Supervised Project Research,,Open,0,30,0
+294,17123,CS,7995,34,Independent Study,3,Mary Soffa,TBA,TBA,Supervised Project Research,,Open,0,1,0
+295,17217,CS,7995,35,Independent Study,3,Lu Feng,TBA,TBA,Supervised Project Research,,Open,0,30,0
+296,17298,CS,7995,36,Independent Study,3,Nathan Brunelle,TBA,TBA,Supervised Project Research,,Open,0,30,0
+297,17354,CS,7995,37,Independent Study,3,Farzad Hassanzadeh,TBA,TBA,Supervised Project Research,,Open,0,30,0
+298,16330,CS,8524,1,Lecture,1 - 3,Kevin Sullivan,TBA,TBA,Topics in Software Engineering,,Open,3,30,0
+299,16254,CS,8897,1,Independent Study,1 - 12,Jack Davidson,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+300,16255,CS,8897,2,Independent Study,1 - 12,David Evans,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+301,16256,CS,8897,3,Independent Study,1 - 12,James Cohoon,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+302,16699,CS,8897,4,Independent Study,1 - 12,Connelly Barnes,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+303,16257,CS,8897,5,Independent Study,1 - 12,Marty Humphrey,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+304,16258,CS,8897,6,Independent Study,1 - 12,Kevin Skadron,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+305,16259,CS,8897,7,Independent Study,1 - 12,Mary Soffa,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+306,16260,CS,8897,8,Independent Study,1 - 12,John Stankovic,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+307,16979,CS,8897,9,Independent Study,1 - 12,Baishakhi Ray,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+308,16368,CS,8897,10,Independent Study,1 - 12,Aaron Bloomfield,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+309,16369,CS,8897,11,Independent Study,1 - 12,Andrew Grimshaw,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+310,17073,CS,8897,12,Independent Study,1 - 12,Kai-Wei Chang,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+311,16370,CS,8897,13,Independent Study,1 - 12,Thomas Horton,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+312,16980,CS,8897,14,Independent Study,1 - 12,Samira Khan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+313,17284,CS,8897,15,Independent Study,1 - 12,Bradford Campbell,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+314,16371,CS,8897,16,Independent Study,1 - 12,Worthy Martin,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+315,16622,CS,8897,17,Independent Study,1 - 12,Nada Basit,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+316,16372,CS,8897,18,Independent Study,1 - 12,Gabriel Robins,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+317,17292,CS,8897,19,Independent Study,1 - 12,Quanquan Gu,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+318,16692,CS,8897,20,Independent Study,1 - 12,Mohammad Mahmoody Ghidary,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+319,16373,CS,8897,21,Independent Study,1 - 12,Kevin Sullivan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+320,16374,CS,8897,22,Independent Study,1 - 12,Alfred Weaver,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+321,17276,CS,8897,23,Independent Study,1 - 12,Madhur Behl,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+322,16375,CS,8897,24,Independent Study,1 - 12,Cameron Whitehouse,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+323,16378,CS,8897,25,Independent Study,1 - 12,Mark Sherriff,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+324,16895,CS,8897,26,Independent Study,1 - 12,Craig Dill,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+325,16897,CS,8897,27,Independent Study,1 - 12,Kong-Cheng Wong,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+326,16542,CS,8897,28,Independent Study,1 - 12,David Edwards,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+327,16896,CS,8897,29,Independent Study,1 - 12,Hongning Wang,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+328,16625,CS,8897,30,Independent Study,1 - 12,Mark Floryan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+329,16626,CS,8897,31,Independent Study,1 - 12,Luther Tychonievich,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+330,16627,CS,8897,32,Independent Study,1 - 12,Yanjun Qi,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+331,17074,CS,8897,33,Independent Study,1 - 12,Haiying Shen,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+332,17075,CS,8897,34,Independent Study,1 - 12,Vicente Ordonez-Roman,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+333,17076,CS,8897,35,Independent Study,1 - 12,Charles Reiss,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+334,17077,CS,8897,36,Independent Study,1 - 12,Ahmed Ibrahim,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+335,17078,CS,8897,37,Independent Study,1 - 12,Upsorn Praphamontripong,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+336,17112,CS,8897,38,Independent Study,1 - 12,Mary Smith,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+337,17113,CS,8897,39,Independent Study,1 - 12,Abdeltawab Hendawi,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+338,17114,CS,8897,40,Independent Study,1 - 12,Dimitrios Diochnos,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+339,17218,CS,8897,41,Independent Study,1 - 12,Lu Feng,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+340,17299,CS,8897,42,Independent Study,1 - 12,Nathan Brunelle,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+341,17355,CS,8897,43,Independent Study,1 - 12,Farzad Hassanzadeh,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+342,15871,CS,8999,1,Independent Study,1 - 12,Cameron Whitehouse,TBA,TBA,Thesis,,Open,0,50,0
+343,16228,CS,8999,2,Independent Study,1 - 12,James Cohoon,TBA,TBA,Thesis,,Open,0,30,0
+344,16229,CS,8999,3,Independent Study,1 - 12,Jack Davidson,TBA,TBA,Thesis,,Open,0,30,0
+345,16230,CS,8999,4,Independent Study,1 - 12,David Evans,TBA,TBA,Thesis,,Open,0,30,0
+346,16700,CS,8999,5,Independent Study,1 - 12,Connelly Barnes,TBA,TBA,Thesis,,Open,0,30,0
+347,16231,CS,8999,6,Independent Study,1 - 12,Andrew Grimshaw,TBA,TBA,Thesis,,Open,0,30,0
+348,16232,CS,8999,7,Independent Study,1 - 12,Hongning Wang,TBA,TBA,Thesis,,Open,0,30,0
+349,16701,CS,8999,8,Independent Study,1 - 12,Yanjun Qi,TBA,TBA,Thesis,,Open,0,30,0
+350,16233,CS,8999,9,Independent Study,1 - 12,Thomas Horton,TBA,TBA,Thesis,,Open,0,30,0
+351,16234,CS,8999,10,Independent Study,1 - 12,Marty Humphrey,TBA,TBA,Thesis,,Open,0,30,0
+352,16428,CS,8999,11,Independent Study,1 - 12,Mark Sherriff,TBA,TBA,Thesis,,Open,0,30,0
+353,17285,CS,8999,12,Independent Study,1 - 12,Bradford Campbell,TBA,TBA,Thesis,,Open,0,30,0
+354,16981,CS,8999,13,Independent Study,1 - 12,Baishakhi Ray,TBA,TBA,Thesis,,Open,0,30,0
+355,16235,CS,8999,14,Independent Study,1 - 12,Worthy Martin,TBA,TBA,Thesis,,Open,0,30,0
+356,16693,CS,8999,15,Independent Study,1 - 12,Mohammad Mahmoody Ghidary,TBA,TBA,Thesis,,Open,0,30,0
+357,16236,CS,8999,16,Independent Study,1 - 12,Gabriel Robins,TBA,TBA,Thesis,,Open,0,30,0
+358,17293,CS,8999,17,Independent Study,1 - 12,Quanquan Gu,TBA,TBA,Thesis,,Open,0,30,0
+359,16237,CS,8999,18,Independent Study,1 - 12,Kevin Skadron,TBA,TBA,Thesis,,Open,0,30,0
+360,16238,CS,8999,19,Independent Study,1 - 12,Mary Soffa,TBA,TBA,Thesis,,Open,0,30,0
+361,16661,CS,8999,20,Independent Study,1 - 12,Malathi Veeraraghavan,TBA,TBA,Thesis,,Open,0,30,0
+362,16239,CS,8999,21,Independent Study,1 - 12,John Stankovic,TBA,TBA,Thesis,,Open,0,30,0
+363,16240,CS,8999,22,Independent Study,1 - 12,Kevin Sullivan,TBA,TBA,Thesis,,Open,0,30,0
+364,16241,CS,8999,23,Independent Study,1 - 12,Alfred Weaver,TBA,TBA,Thesis,,Open,0,30,0
+365,17277,CS,8999,24,Independent Study,1 - 12,Madhur Behl,TBA,TBA,Thesis,,Open,0,30,0
+366,16429,CS,8999,25,Independent Study,1 - 12,Aaron Bloomfield,TBA,TBA,Thesis,,Open,0,30,0
+367,16982,CS,8999,26,Independent Study,1 - 12,Samira Khan,TBA,TBA,Thesis,,Open,0,30,0
+368,17081,CS,8999,27,Independent Study,1 - 12,Kai-Wei Chang,TBA,TBA,Thesis,,Open,0,30,0
+369,17082,CS,8999,28,Independent Study,1 - 12,Haiying Shen,TBA,TBA,Thesis,,Open,0,30,0
+370,17083,CS,8999,29,Independent Study,1 - 12,Vicente Ordonez-Roman,TBA,TBA,Thesis,,Open,0,30,0
+371,17084,CS,8999,30,Independent Study,1 - 12,Charles Reiss,TBA,TBA,Thesis,,Open,0,30,0
+372,17085,CS,8999,31,Independent Study,1 - 12,Ahmed Ibrahim,TBA,TBA,Thesis,,Open,0,30,0
+373,17086,CS,8999,32,Independent Study,1 - 12,Upsorn Praphamontripong,TBA,TBA,Thesis,,Open,0,30,0
+374,17219,CS,8999,33,Independent Study,1 - 12,Lu Feng,TBA,TBA,Thesis,,Open,0,30,0
+375,17300,CS,8999,34,Independent Study,1 - 12,Nathan Brunelle,TBA,TBA,Thesis,,Open,0,30,0
+376,17356,CS,8999,35,Independent Study,1 - 12,Farzad Hassanzadeh,TBA,TBA,Thesis,,Open,0,30,0
+377,16460,CS,9897,1,Independent Study,1 - 12,Aaron Bloomfield,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+378,16702,CS,9897,2,Independent Study,1 - 12,Connelly Barnes,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+379,16461,CS,9897,3,Independent Study,1 - 12,James Cohoon,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+380,16462,CS,9897,4,Independent Study,1 - 12,Jack Davidson,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+381,16463,CS,9897,5,Independent Study,1 - 12,David Evans,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+382,16464,CS,9897,6,Independent Study,1 - 12,Andrew Grimshaw,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+383,16894,CS,9897,7,Independent Study,1 - 12,David Edwards,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+384,16465,CS,9897,8,Independent Study,1 - 12,Thomas Horton,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+385,16466,CS,9897,9,Independent Study,1 - 12,Marty Humphrey,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+386,17286,CS,9897,10,Independent Study,1 - 12,Bradford Campbell,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+387,16893,CS,9897,11,Independent Study,1 - 12,Mark Floryan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+388,16467,CS,9897,12,Independent Study,1 - 12,Worthy Martin,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+389,16703,CS,9897,13,Independent Study,1 - 12,Yanjun Qi,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+390,17294,CS,9897,14,Independent Study,1 - 12,Quanquan Gu,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+391,16468,CS,9897,15,Independent Study,1 - 12,Mark Sherriff,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+392,16469,CS,9897,16,Independent Study,1 - 12,Kevin Skadron,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+393,16470,CS,9897,17,Independent Study,1 - 12,Mary Soffa,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+394,16694,CS,9897,18,Independent Study,1 - 12,Mohammad Mahmoody Ghidary,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+395,16471,CS,9897,19,Independent Study,1 - 12,John Stankovic,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+396,16472,CS,9897,20,Independent Study,1 - 12,Kevin Sullivan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+397,16473,CS,9897,21,Independent Study,1 - 12,Alfred Weaver,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+398,17278,CS,9897,22,Independent Study,1 - 12,Madhur Behl,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+399,16474,CS,9897,23,Independent Study,1 - 12,Cameron Whitehouse,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+400,16983,CS,9897,24,Independent Study,1 - 12,Baishakhi Ray,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+401,16984,CS,9897,25,Independent Study,1 - 12,Samira Khan,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+402,17087,CS,9897,26,Independent Study,1 - 12,Kai-Wei Chang,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+403,17088,CS,9897,27,Independent Study,1 - 12,Haiying Shen,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+404,17089,CS,9897,28,Independent Study,1 - 12,Vicente Ordonez-Roman,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+405,17090,CS,9897,29,Independent Study,1 - 12,Charles Reiss,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+406,17091,CS,9897,30,Independent Study,1 - 12,Ahmed Ibrahim,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+407,17092,CS,9897,31,Independent Study,1 - 12,Upsorn Praphamontripong,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+408,17115,CS,9897,32,Independent Study,1 - 12,Mary Smith,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+409,17116,CS,9897,33,Independent Study,1 - 12,Kong-Cheng Wong,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+410,17117,CS,9897,34,Independent Study,1 - 12,Dimitrios Diochnos,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+411,17220,CS,9897,35,Independent Study,1 - 12,Lu Feng,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+412,17301,CS,9897,36,Independent Study,1 - 12,Nathan Brunelle,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+413,17357,CS,9897,37,Independent Study,1 - 12,Farzad Hassanzadeh,TBA,TBA,Graduate Teaching Instruction,,Open,0,30,0
+414,15872,CS,9999,1,Independent Study,1 - 12,Marty Humphrey,TBA,TBA,Dissertation,,Open,0,50,0
+415,16016,CS,9999,2,Independent Study,1 - 12,Cameron Whitehouse,TBA,TBA,Dissertation,,Open,0,50,0
+416,16017,CS,9999,3,Independent Study,1 - 12,Alfred Weaver,TBA,TBA,Dissertation,,Open,0,50,0
+417,16018,CS,9999,4,Independent Study,1 - 12,John Stankovic,TBA,TBA,Dissertation,,Open,0,50,0
+418,16985,CS,9999,5,Independent Study,1 - 12,Baishakhi Ray,TBA,TBA,Dissertation,,Open,0,30,0
+419,16159,CS,9999,6,Independent Study,1 - 12,James Cohoon,TBA,TBA,Dissertation,,Open,0,30,0
+420,16160,CS,9999,7,Independent Study,1 - 12,Jack Davidson,TBA,TBA,Dissertation,,Open,0,30,0
+421,16161,CS,9999,8,Independent Study,1 - 12,David Evans,TBA,TBA,Dissertation,,Open,0,30,0
+422,16704,CS,9999,9,Independent Study,1 - 12,Connelly Barnes,TBA,TBA,Dissertation,,Open,0,30,0
+423,16162,CS,9999,10,Independent Study,1 - 12,Andrew Grimshaw,TBA,TBA,Dissertation,,Open,0,30,0
+424,16163,CS,9999,11,Independent Study,1 - 12,Hongning Wang,TBA,TBA,Dissertation,,Open,0,30,0
+425,16705,CS,9999,12,Independent Study,1 - 12,Yanjun Qi,TBA,TBA,Dissertation,,Open,0,30,0
+426,16430,CS,9999,13,Independent Study,1 - 12,Aaron Bloomfield,TBA,TBA,Dissertation,,Open,0,30,0
+427,16986,CS,9999,14,Independent Study,1 - 12,Samira Khan,TBA,TBA,Dissertation,,Open,0,30,0
+428,17287,CS,9999,15,Independent Study,1 - 12,Bradford Campbell,TBA,TBA,Dissertation,,Open,0,30,0
+429,16164,CS,9999,16,Independent Study,1 - 12,Worthy Martin,TBA,TBA,Dissertation,,Open,0,30,0
+430,16695,CS,9999,17,Independent Study,1 - 12,Mohammad Mahmoody Ghidary,TBA,TBA,Dissertation,,Open,0,30,0
+431,16165,CS,9999,18,Independent Study,1 - 12,Gabriel Robins,TBA,TBA,Dissertation,,Open,0,30,0
+432,17279,CS,9999,19,Independent Study,1 - 12,Madhur Behl,TBA,TBA,Dissertation,,Open,0,30,0
+433,16166,CS,9999,20,Independent Study,1 - 12,Kevin Skadron,TBA,TBA,Dissertation,,Open,0,30,0
+434,16167,CS,9999,21,Independent Study,1 - 12,Mary Soffa,TBA,TBA,Dissertation,,Open,0,30,0
+435,17093,CS,9999,22,Independent Study,1 - 12,Kai-Wei Chang,TBA,TBA,Dissertation,,Open,0,30,0
+436,16168,CS,9999,23,Independent Study,1 - 12,Kevin Sullivan,TBA,TBA,Dissertation,,Open,0,30,0
+437,17264,CS,9999,24,Independent Study,1 - 12,Quanquan Gu,TBA,TBA,Dissertation,,Open,0,30,0
+438,16431,CS,9999,25,Independent Study,1 - 12,Thomas Horton,TBA,TBA,Dissertation,,Open,0,30,0
+439,17094,CS,9999,26,Independent Study,1 - 12,Haiying Shen,TBA,TBA,Dissertation,,Open,0,30,0
+440,16432,CS,9999,27,Independent Study,1 - 12,Mark Sherriff,TBA,TBA,Dissertation,,Open,0,30,0
+441,17095,CS,9999,28,Independent Study,1 - 12,Vicente Ordonez-Roman,TBA,TBA,Dissertation,,Open,0,30,0
+442,17096,CS,9999,29,Independent Study,1 - 12,Charles Reiss,TBA,TBA,Dissertation,,Open,0,30,0
+443,17097,CS,9999,30,Independent Study,1 - 12,Ahmed Ibrahim,TBA,TBA,Dissertation,,Open,0,30,0
+444,17098,CS,9999,31,Independent Study,1 - 12,Upsorn Praphamontripong,TBA,TBA,Dissertation,,Open,0,30,0
+445,17221,CS,9999,32,Independent Study,1 - 12,Lu Feng,TBA,TBA,Dissertation,,Open,0,30,0
+446,17302,CS,9999,33,Independent Study,1 - 12,Nathan Brunelle,TBA,TBA,Dissertation,,Open,0,30,0
+447,17358,CS,9999,34,Independent Study,1 - 12,Farzad Hassanzadeh,TBA,TBA,Dissertation,,Open,0,30,0
