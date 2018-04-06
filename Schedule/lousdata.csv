@@ -3330,7 +3330,7 @@
 3328,19506,EDLF,5160,500,Lecture,3,Laurie Grocholski,Mo 12:02AM - 12:04AM,Web-Based Course,Life Span Development,,Open,1,20,0
 3329,15754,EDLF,5300,1,Lecture,1,Kerrigan Mahoney,Fr 11:00AM - 12:00PM,Ruffner Hall 123,Academic Writing,,Open,0,15,0
 3330,19507,EDLF,5300,500,Lecture,1,Kerrigan Mahoney,Mo 12:06AM - 12:08AM,Web-Based Course,Academic Writing,,Open,0,20,0
-3331,15439,EDLF,5310,1,Lecture,3,Daphna Bassok,Mo 6:00PM - 8:30PM,Mechanical Engr Bldg 215,Data Management for Social Science Research,,Open,2,32,0
+3331,15439,EDLF,5310,1,Lecture,3,Daphna Bassok,Mo 6:00PM - 8:30PM,Mechanical Engr Bldg 215,Data Management for Social Science Research,,Open,3,32,0
 3332,15199,EDLF,5330,001,Lecture,3,Joseph Meyer,TuTh 9:30AM - 10:45AM,Ruffner Hall 175,Quantitative Methods and Data Analysis I,,Open,5,30,0
 3333,15198,EDLF,5330,002,Lecture,3,Vivian Wong,TuTh 3:30PM - 4:45PM,Physics Bldg 218,Quantitative Methods and Data Analysis I,,Open,0,30,0
 3334,15779,EDLF,5410,1,Seminar,3,Gerald Starsia,Tu 3:30PM - 6:00PM,Dell 2 102,Strategy in Higher Education and Intercollegiate Athletics,,Open,0,20,0
@@ -3386,8 +3386,8 @@
 3384,19659,EDLF,7812,500,Lecture,3,David Eddy Spicer,Mo 5:00PM - 8:00PM,Northern Virginia Center,Leadership for Continuous Improvement,,Open,1,20,0
 3385,20024,EDLF,7813,500,Lecture,3,Kevin Clark,Tu 5:00PM - 8:00PM,Web-Based Course,Leadership for EdTech,,Open,0,20,0
 3386,15684,EDLF,8310,1,Lecture,3,Ji Hoon Ryoo,TuTh 9:30AM - 10:45AM,Ruffner Hall 139,Correlation and Regression Analysis: Stat III,,Open,1,30,0
-3387,20456,EDLF,8311,1,Lecture,3,Vivian Wong,TuTh 2:00PM - 3:15PM,Physics Bldg 218,Design and Analysis of Field Experiments,,Open,4,30,0
-3388,19539,EDLF,8360,1,Lecture,3,Ji Hoon Ryoo,Tu 3:30PM - 6:00PM,Physics Bldg 210,Multilevel Modeling in Education Research,,Open,6,30,0
+3387,20456,EDLF,8311,1,Lecture,3,Vivian Wong,TuTh 2:00PM - 3:15PM,Physics Bldg 218,Design and Analysis of Field Experiments,,Open,5,30,0
+3388,19539,EDLF,8360,1,Lecture,3,Ji Hoon Ryoo,Tu 3:30PM - 6:00PM,Physics Bldg 210,Multilevel Modeling in Education Research,,Open,7,30,0
 3389,19660,EDLF,8382,500,Lecture,3,Tonya Moon,Mo 12:30AM - 12:32AM,Web-Based Course,Educational Inquiry for Practitioners,,Open,0,20,0
 3390,20087,EDLF,8440,1,Lecture,3,Walter Heinecke,We 3:30PM - 6:00PM,Physics Bldg 218,Advanced Qualitative Analysis,,Open,2,30,0
 3391,20217,EDLF,8500,500,Lecture,1 - 6,Michelle Young,FrSa 8:30AM - 4:30PM,Northern Virginia Center,Special Topics,,Open,0,20,0
@@ -3741,15 +3741,15 @@
 3739,14276,ENWR,1510,068,Seminar,3,Staff,MoWeFr 11:00AM - 11:50AM,New Cabell Hall 383,Writing and Critical Inquiry,,Open,0,4,0
 3740,14277,ENWR,1510,069,Seminar,3,Staff,MoWeFr 12:00PM - 12:50PM,Monroe Hall 114,Writing and Critical Inquiry,,Open,0,4,0
 3741,14305,ENWR,1510,070,Seminar,3,Staff,TuTh 6:30PM - 7:45PM,Bryan Hall 332,Writing and Critical Inquiry,,Open,0,4,0
-3742,13797,ENWR,2510,001,Seminar,3,Staff,MoWe 5:00PM - 6:15PM,New Cabell Hall 068,Advanced Writing Seminar,,Open,0,16,0
-3743,13798,ENWR,2510,002,Seminar,3,Staff,MoWeFr 1:00PM - 1:50PM,Bryan Hall 312,Advanced Writing Seminar,,Open,0,16,0
-3744,13799,ENWR,2510,003,Seminar,3,Staff,TuTh 11:00AM - 12:15PM,Bryan Hall 334,Advanced Writing Seminar,,Open,0,16,0
-3745,18599,ENWR,2510,004,Seminar,3,Staff,TuTh 3:30PM - 4:45PM,Maury Hall 110,Advanced Writing Seminar,,Open,0,16,0
-3746,18600,ENWR,2510,005,Seminar,3,Staff,MoWe 5:00PM - 6:15PM,Bryan Hall 334,Advanced Writing Seminar,,Open,0,16,0
-3747,20290,ENWR,2510,006,Seminar,3,Staff,MoWe 3:30PM - 4:45PM,New Cabell Hall 315,Advanced Writing Seminar,,Open,0,16,0
+3742,13797,ENWR,2510,001,Seminar,3,Staff,MoWe 5:00PM - 6:15PM,New Cabell Hall 068,Advanced Writing Seminar,,Wait List,0,0,0
+3743,13798,ENWR,2510,002,Seminar,3,Staff,MoWeFr 1:00PM - 1:50PM,Bryan Hall 312,Advanced Writing Seminar,,Wait List,0,0,0
+3744,13799,ENWR,2510,003,Seminar,3,Staff,TuTh 11:00AM - 12:15PM,Bryan Hall 334,Advanced Writing Seminar,,Wait List,0,0,0
+3745,18599,ENWR,2510,004,Seminar,3,Staff,TuTh 3:30PM - 4:45PM,Maury Hall 110,Advanced Writing Seminar,,Wait List,0,0,0
+3746,18600,ENWR,2510,005,Seminar,3,Staff,MoWe 5:00PM - 6:15PM,Bryan Hall 334,Advanced Writing Seminar,,Wait List,0,0,0
+3747,20290,ENWR,2510,006,Seminar,3,Staff,MoWe 3:30PM - 4:45PM,New Cabell Hall 315,Advanced Writing Seminar,,Wait List,0,0,0
 3748,13937,ENWR,2520,002,Seminar,3,Marcus Meade,TuTh 12:30PM - 1:45PM,Astronomy Bldg 265,Special Topics in Writing,New Media Sports Writing,Open,0,16,0
 3749,13664,ENWR,2520,004,Seminar,3,Sarah O'Brien,MoWe 3:30PM - 4:45PM,New Cabell Hall 364,Special Topics in Writing,Writing about & with Film,Open,0,6,0
-3750,20289,ENWR,2520,007,Seminar,3,Staff,Mo 6:00PM - 8:30PM,New Cabell Hall 036,Special Topics in Writing,,Open,0,16,0
+3750,20289,ENWR,2520,007,Seminar,3,Annie Kim,Mo 6:00PM - 8:30PM,New Cabell Hall 036,Special Topics in Writing,,Open,0,16,0
 3751,20295,ENWR,2520,008,Seminar,3,Kiera Allison,MoWeFr 1:00PM - 1:50PM,Brooks Hall 103,Special Topics in Writing,Writing about Medicine,Open,0,6,0
 3752,10818,ENWR,2700,001,Lecture,3,Charles Kelly,TuTh 9:30AM - 10:45AM,Bryan Hall 203,News Writing,,Open,0,8,0
 3753,10819,ENWR,2700,002,Lecture,3,Charles Kelly,TuTh 8:00AM - 9:15AM,Bryan Hall 203,News Writing,,Open,0,8,0
@@ -5035,8 +5035,8 @@
 5033,17855,JPTR,3559,001,Seminar,3,Miyabi Goto,Tu 3:30PM - 6:00PM,New Cabell Hall 332,New Course in Japanese in Translation,,Open,0,18,0
 5034,13006,JPTR,4991,001,Seminar,1,Gustav Heldt,TBA,TBA,Japanese Capstone,,Open,0,30,0
 5035,12906,JPTR,5010,001,Lecture,3,Gustav Heldt,TuTh 2:00PM - 3:15PM,New Cabell Hall 315,Survey of Traditional Japanese Literature,,Open,0,2,0
-5036,17850,JPTR,5290,001,Lecture,3,Gustav Heldt,We 3:30PM - 6:00PM,Nau Hall 141,Feminine Fictions in Japanese Court Literature,,Open,1,2,0
-5037,20494,JPTR,5320,001,Seminar,3,Miyabi Goto,Th 3:30PM - 6:00PM,New Cabell Hall 332,Cinematic Images of Japanese Society and Culture,,Open,0,18,0
+5036,17850,JPTR,5290,001,Lecture,3,Gustav Heldt,We 3:30PM - 6:00PM,Nau Hall 141,Feminine Fictions in Japanese Court Literature,,Open,0,2,0
+5037,20494,JPTR,5320,001,Seminar,3,Miyabi Goto,Th 3:30PM - 6:00PM,New Cabell Hall 332,Cinematic Images of Japanese Society and Culture,,Open,1,18,0
 5038,17856,JPTR,5559,001,Seminar,3,Miyabi Goto,Tu 3:30PM - 6:00PM,New Cabell Hall 332,New Course in Japanese in Translation,,Open,1,2,0
 5039,20200,JWST,3559,001,Lecture,3,Staff,MoWe 2:00PM - 3:15PM,Dell 2 100,New Course in Jewish Studies,Holocaust Museums,Open,0,10,0
 5040,20235,JWST,3559,002,Lecture,3,Staff,TuTh 3:00PM - 4:15PM,Dell 2 100,New Course in Jewish Studies,Israeli Art and Culture,Open,0,8,0
@@ -5242,8 +5242,8 @@
 5240,12885,LATI,9999,003,Independent Study,1 - 12,Karen Myers,TBA,TBA,Non-Topical Research,,Open,0,10,0
 5241,20173,LING,3400,100,Lecture,3,Janay Crabtree,MoWe 9:00AM - 9:50AM,Nau Hall 211,Structure of English,,Open,0,55,0
 5242,20174,LING,3400,101,Discussion,0,Staff,We 4:00PM - 4:50PM,New Cabell Hall 407,Structure of English,,Open,0,20,0
-5243,20175,LING,3400,102,Discussion,0,Staff,We 5:00PM - 5:50PM,TBA,Structure of English,,Closed,0,0,0
-5244,20176,LING,3400,103,Discussion,0,Staff,Fr 9:00AM - 9:50AM,Cocke Hall 101,Structure of English,,Open,0,20,0
+5243,20175,LING,3400,102,Discussion,0,Staff,We 5:00PM - 5:50PM,New Cabell Hall 338,Structure of English,,Closed,0,0,0
+5244,20176,LING,3400,103,Discussion,0,Staff,We 6:00PM - 6:50PM,New Cabell Hall 415,Structure of English,,Open,0,20,0
 5245,12562,LING,4994,001,Independent Study,1 - 3,Eve Danziger,TBA,TBA,Linguistics Internship,,Open,0,5,0
 5246,13238,LING,4998,001,Independent Study,0,Eve Danziger,TBA,TBA,Distinguished Major Thesis,,Open,0,5,0
 5247,20178,LING,5101,001,Practicum,1,"Elizabeth Wittner,Janay Crabtree",We 1:00PM - 1:50PM,Contact Department,ESL Teaching Practicum: Language,,Open,0,12,0
@@ -5253,7 +5253,7 @@
 5251,20177,LING,7400,100,Lecture,3,Janay Crabtree,MoWe 9:00AM - 9:50AM,Nau Hall 211,Structure of English,,Open,1,5,0
 5252,20181,LING,8998,001,Independent Study,1 - 12,Lise Dobrin,TBA,TBA,Non-Topical Research,,Open,0,20,0
 5253,20182,LING,8999,001,Independent Study,3,Lise Dobrin,TBA,TBA,MA Thesis Research,,Open,0,10,0
-5254,20183,LING,9010,001,Independent Study,3,Filip Loncke,TBA,TBA,Directed Research,,Open,0,5,0
+5254,20183,LING,9010,001,Independent Study,3,Filip Loncke,TBA,TBA,Directed Research,,Open,1,5,0
 5255,10381,LNGS,3250,001,Lecture,3,Mark Elson,MoWeFr 11:00AM - 11:50AM,Maury Hall 104,Introduction to Linguistic Theory and Analysis,,Open,0,45,0
 5256,11639,LNGS,3251,100,Discussion,1,Staff,We 1:00PM - 1:50PM,The Rotunda Room 152,Introduction to Linguistic Theory and Methodology Discussion,,Open,0,15,0
 5257,11640,LNGS,3251,101,Discussion,1,Staff,Th 11:00AM - 11:50AM,The Rotunda Room 150,Introduction to Linguistic Theory and Methodology Discussion,,Open,0,20,0
