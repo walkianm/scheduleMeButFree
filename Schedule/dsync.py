@@ -15,6 +15,6 @@ def dataSync():
     print "data sync complete"
 
 
-# next step? 
+# next step?
 
 dataSync()
