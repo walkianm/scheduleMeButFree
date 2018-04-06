@@ -1,5 +1,5 @@
 import requests
-import pandas as p
+import pandas as pd
 import io
 import csv
 
@@ -9,7 +9,7 @@ def download():
     p = {'Description': 'yes', 'Group': 'CompSci', 'Semester': '1188'}
     sess = requests.session()
     info = sess.post('https://rabi.phys.virginia.edu/mySIS/CS2/deliverData.php', p)
-    data = p.read_csv(io.StringIO(info.text, "\n"), header=0)
+    data = pd.read_csv(io.StringIO(info.text, "\n"), header=0)
     # file = open("data.txt", "w")
     # file.write(info.text.encode('utf-8')) #
     # print info.text
