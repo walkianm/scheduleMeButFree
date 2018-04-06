@@ -1,7 +1,6 @@
 import requests
 import pandas
 import io
-import csv
 
 
 # download the new course csv
