@@ -10,7 +10,7 @@ def dataSync():
     sess = requests.session()
     info = sess.post('https://rabi.phys.virginia.edu/mySIS/CS2/deliverData.php', p)
     data = pandas.read_csv(io.StringIO(info.text, "\n"), header=0)
-    data.to_csv('lousdata.csv')
+    data.to_csv('/home/gmf/lousdata.csv')
     print "data sync complete"
 
 
